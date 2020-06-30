@@ -11,3 +11,6 @@ Add a description of your character (~30-50 words) to the index.md file undernea
 
 As Grace Hopper said:
 > I’ve always been more interested in the future than in the past
+
+
+<img src="https://git-scm.com/images/logos/2color-lightbg@2x.png">
